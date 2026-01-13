@@ -5,6 +5,7 @@ Mechanical Engineer writing code
 --------------------------------
 
 * 🌍  I'm based in New York, but my dream is to move to the West Coast
+* 🖥️  See my portfolio at [My Portfolio](http://samrosenportfolio.com)
 * ✉️  You can contact me at [srosen1230@gmail.com](mailto:srosen1230@gmail.com)
 
 <p align="left">
