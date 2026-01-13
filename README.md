@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Samuel
 ===============================================================================================================================
 
-Mechanical Engeer that writes code
-----------------------------------
+Mechanical Engineer writing code
+--------------------------------
 
 * 🌍  I'm based in New York, but my dream is to move to the West Coast
 * ✉️  You can contact me at [srosen1230@gmail.com](mailto:srosen1230@gmail.com)
