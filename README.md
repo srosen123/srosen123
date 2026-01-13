@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mechanical Engineer writing code
 --------------------------------
 
-* 🌍  I'm based in New York, but my dream is to move to the West Coast
-* 🖥️  See my portfolio at [My Portfolio](http://samrosenportfolio.com)
+* 🖥️  See my portfolio [Here](http://samrosenportfolio.com)
 * ✉️  You can contact me at [srosen1230@gmail.com](mailto:srosen1230@gmail.com)
 
 <p align="left">
